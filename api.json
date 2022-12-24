@@ -1,0 +1,47 @@
+[
+	{
+		"id":1,
+		"title":"Microsoft Surface Laptop 4",
+		"price":1499,
+		"discountPercentage":10.23,
+		"rating":4.43,
+		"stock":68,
+		"company":"Microsoft"
+	},
+	{
+		"id":2,
+		"title":"Asus Laptop 104X",
+		"price":1799,
+		"discountPercentage":8.75,
+		"rating":4.58,
+		"stock":37,
+		"company":"ASUS"
+	},
+	{
+		"id":3,
+		"title":"ZTE A501",
+		"price":1050,
+		"discountPercentage":4.36,
+		"rating":4.12,
+		"stock":104,
+		"company":"ZTE"
+	},
+	{
+		"id":4,
+		"title":"Sony Xperia XZ1",
+		"price":899,
+		"discountPercentage":18.40,
+		"rating":4.65,
+		"stock":72,
+		"company":"Sony"
+	},
+	{
+		"id":5,
+		"title":"iPhone 11",
+		"price":1599,
+		"discountPercentage":15.27,
+		"rating":4.82,
+		"stock":35,
+		"company":"Apple"
+	},
+]
